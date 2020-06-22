@@ -20,7 +20,7 @@
         <allow-intent href="market:*" />
     </platform>
     <preference  name="xwalkCommandLine" value="--disable-pull-to-refresh-effect --ignore-gpu-blacklist"/>
-
+<preference name="android-targetSdkVersion" value="28" />
     <platform name="ios">
         <allow-intent href="itms:*" />
         <allow-intent href="itms-apps:*" />
