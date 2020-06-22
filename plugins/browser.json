@@ -1,0 +1,43 @@
+{
+  "prepare_queue": {
+    "installed": [],
+    "uninstalled": []
+  },
+  "config_munge": {
+    "files": {}
+  },
+  "installed_plugins": {
+    "cordova-plugin-whitelist": {
+      "PACKAGE_NAME": "permisos.app.foedi"
+    },
+    "cordova-plugin-advanced-http": {
+      "PACKAGE_NAME": "permisos.app.foedi"
+    },
+    "cordova-plugin-statusbar": {
+      "PACKAGE_NAME": "permisos.app.foedi"
+    },
+    "cordova-plugin-device": {
+      "PACKAGE_NAME": "permisos.app.foedi"
+    },
+    "cordova-plugin-compat": {
+      "PACKAGE_NAME": "permisos.app.foedi"
+    },
+    "cordova-plugin-app-version": {
+      "PACKAGE_NAME": "permisos.app.foedi"
+    },
+    "cordova-plugin-dialogs": {
+      "PACKAGE_NAME": "permisos.app.foedi"
+    },
+    "cordova-plugin-network-information": {
+      "PACKAGE_NAME": "permisos.app.foedi"
+    },
+    "cordova-plugin-inappbrowser": {
+      "PACKAGE_NAME": "permisos.app.foedi"
+    }
+  },
+  "dependent_plugins": {
+    "cordova-plugin-file": {
+      "PACKAGE_NAME": "permisos.app.foedi"
+    }
+  }
+}
